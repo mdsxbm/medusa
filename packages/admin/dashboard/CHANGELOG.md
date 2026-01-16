@@ -1,5 +1,19 @@
 # @medusajs/dashboard
 
+## 2.12.6
+
+### Patch Changes
+
+- [#14488](https://github.com/medusajs/medusa/pull/14488) [`19f274523cda2cf13fc9194d72b9d8a71aba264c`](https://github.com/medusajs/medusa/commit/19f274523cda2cf13fc9194d72b9d8a71aba264c) Thanks [@peterlgh7](https://github.com/peterlgh7)! - add cloud auto-login
+
+- [#14549](https://github.com/medusajs/medusa/pull/14549) [`c5b919850cf4a133686606bbff66b2bc6d6d3ae0`](https://github.com/medusajs/medusa/commit/c5b919850cf4a133686606bbff66b2bc6d6d3ae0) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(dashboard): filter feed channel notifications in admin dashboard
+
+- Updated dependencies []:
+  - @medusajs/js-sdk@2.12.6
+  - @medusajs/admin-shared@2.12.6
+  - @medusajs/icons@2.12.6
+  - @medusajs/ui@4.0.34
+
 ## 2.12.5
 
 ### Patch Changes
